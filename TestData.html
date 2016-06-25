@@ -1,0 +1,23 @@
+<div class="row">
+    <div class="col-md-12">
+        <h3>ViewCar.html</h3>
+        <h4>{{name}}</h4>
+        <ul>
+            <li>{{car[0].make}}</li>
+            <li>{{car[0].model_name}}</li>
+            <li>{{car[0].model_trim}}</li>
+            <li>{{car[0].model_year}}</li>
+            <li>{{car[0].body_style}}</li>
+            <li>{{imageURL}}</li>
+        </ul>
+
+        <ul ng-repeat="recall in recalls.Results">
+            <li>{{recall.ReportReceivedDate}}</li>
+            <li>{{recall.Component}}</li>
+            <li>{{recall.Summary}}</li>
+            <li>{{recall.Conequence}}</li>
+            <li>{{recall.Remedy}}</li>
+        </ul>
+        
+    </div>
+</div>
