@@ -1,17 +1,39 @@
 <div class="row">
     <div class="col-md-12">
         <h4>Main.html</h4>
-        <select name="Years" id="yearsDropdown" ng-show="{{showYears}}" ng-model="selectedYear">
-            <option ng-repeat="item in years" value="{{item}}" ng-selected="selectedYear">{{item}}</option>
-        </select>
+        <div class="col-md-12" ng-show="showYears">
+            <select name="Years" id="yearsDropdown" ng-model="selectedYear">
+                <option ng-repeat="item in years" value="{{item}}" ng-selected="{{selectedYear}}">{{item}}</option>
+            </select>
+            <button class="btn btn-default" ng-click="getMakes(selectedYear)">Select Year</button>
+        </div>
+        
         <br>
-        <select name="Makes" ng-show="{{showMakes}}" id="makesDropdown">
-        </select>
+        <div class="col-md-12" ng-show="showMakes">
+            <select name="Makes" id="makesDropdown" ng-model="selectedMake">
+                <option ng-repeat="item in makes" value="{{item}}" ng-selected="{{selectedMake}}">{{item}}</option>
+            </select>
+            <button class="btn btn-default" ng-click="getModels(selectedYear, selectedMake)">Select Make</button>
+        </div>
+
         <br>
-        <select name="Models" ng-show="{{showModels}}" id="modelsDropdown">
-        </select>
+        <div class="col-md-12" ng-show="showModels">
+            <select name="Models" id="modelsDropdown" ng-model="selectedModel">
+                <option ng-repeat="item in models" value="{{item}}" ng-selected="{{selectedModel}}">{{item}}</option>
+            </select>
+            <button class="btn btn-default" ng-click="getTrims(selectedYear, selectedMake, selectedModel)">Select Model</button>
+        </div>
+
         <br>
-        <select name="Trim" ng-show="{{showTrims}}" id="trimsDropdown">
-        </select>
+        <div class="col-md-12" ng-show="showTrims">
+            <select name="Trims" id="trimsDropdown" ng-model="selectedTrim">
+                <option ng-repeat="item in trims" value="{{item}}" ng-selected="{{selectedTrim}}">{{item}}</option>
+            </select>
+        </div>
+
+        <br><br>
+        <button class="btn btn-default" ng-show="showViewCar">
+            <a ng-href="#car/{{selectedYear}}/{{selectedMake}}/{{selectedModel}}/{{selectedTrim}}">View Car</a>
+        </button>
     </div>
 </div>

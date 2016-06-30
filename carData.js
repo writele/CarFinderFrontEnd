@@ -3,10 +3,10 @@
     var carData = function ($http) {
 
          getYears = function () {
-            return $http.get('http://epalmer-api.azurewebsites.net/api/Car/Years');
-            // .then(function (response) {
-            //     return response.data;
-            // });
+            return $http.get('http://epalmer-api.azurewebsites.net/api/Car/Years')
+            .then(function (response) {
+                return response.data;
+            });
         };
 
         getMakes = function (year) {

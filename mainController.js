@@ -10,10 +10,11 @@ var mainController = function ($scope, $http, carData, $routeParams) {
       $scope.selectedMake = null;
       $scope.selectedModel = null;
       $scope.selectedTrim = null;
-      $scope.showYears = true;
+      $scope.showYears = false;
       $scope.showMakes = false;
       $scope.showModels = false;
       $scope.showTrims = false;
+      $scope.showViewCar = false;
 
       // $scope.appendData = function(element, array) {
       //   //add select list yearsDropdown
@@ -25,19 +26,35 @@ var mainController = function ($scope, $http, carData, $routeParams) {
       // };
 
       $scope.getYears = function () {
-        carData.getYears().success(function (result) {
-            $scope.years = result;
-            $scope.showYears = true;   
-            console.log($scope.showYears); 
-            console.log($scope.years);
-            console.log($scope.years[0]);
+        carData.getYears().then(function (data) {
+            $scope.years = data;
+            $scope.showYears = true;      
+            console.log($scope.selectedYear);   
         });
       };
 
        $scope.getMakes = function (year) {
         carData.getMakes(year).then(function (data) {
             $scope.makes = data;
-            $scope.showMakes = true;    
+            $scope.selectedMake = $scope.makes[0];
+            $scope.showMakes = true;   
+        });
+      };
+
+        $scope.getModels = function (year, make) {
+        carData.getModels(year, make).then(function (data) {
+            $scope.models = data;
+            $scope.selectedModel = $scope.models[0];
+            $scope.showModels = true;   
+        });
+      };
+
+        $scope.getTrims = function (year, make, model) {
+        carData.getTrims(year, make, model).then(function (data) {
+            $scope.trims = data;
+            $scope.selectedTrim = $scope.trims[0];
+            $scope.showTrims = true; 
+            $scope.showViewCar = true;  
         });
       };
 

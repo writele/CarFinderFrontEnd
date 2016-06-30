@@ -8,7 +8,7 @@ var app = angular.module('appCar', ['ngRoute']);
         templateUrl: 'main.html',
         controller: 'mainController'
       })
-      .when('/:year/:make/:model/:trim', {
+      .when('/car/:year/:make/:model/:trim', {
         templateUrl: 'ViewCar.html',
         controller: 'carController'
       })
