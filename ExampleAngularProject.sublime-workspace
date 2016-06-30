@@ -1,0 +1,1136 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"num",
+				"numberInput2"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"bottom",
+				"border-bottom"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"is",
+				"isPalindrome"
+			],
+			[
+				"wp",
+				"wordOutput"
+			],
+			[
+				"wo",
+				"wordOutput"
+			],
+			[
+				"word",
+				"wordInput"
+			],
+			[
+				"wor",
+				"wordInput"
+			],
+			[
+				"nu",
+				"numberInput2"
+			],
+			[
+				"fiz",
+				"fizzbuzzOutput"
+			],
+			[
+				"fac",
+				"factorialInput"
+			],
+			[
+				"fa",
+				"factorialInput"
+			],
+			[
+				"ge",
+				"greatestNumber"
+			],
+			[
+				"lea",
+				"leastNumber"
+			],
+			[
+				"c",
+				"calculateProductNumber"
+			],
+			[
+				"pr",
+				"productNumber"
+			],
+			[
+				"ca",
+				"calculateSumNumber"
+			],
+			[
+				"pd",
+				"productNumber"
+			],
+			[
+				"arr",
+				"arrLength"
+			],
+			[
+				"mean",
+				"meanNumber"
+			],
+			[
+				"cal",
+				"calculateMeanNumber"
+			],
+			[
+				"mea",
+				"meanNumber"
+			],
+			[
+				"pu",
+				"pushValuestoArray"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"re",
+				"replaceGetGiftMessage"
+			],
+			[
+				"get",
+				"getRandomImage"
+			],
+			[
+				"St",
+				"StdIn"
+			],
+			[
+				"co",
+				"countdown"
+			],
+			[
+				"count",
+				"countdownInterval"
+			],
+			[
+				"mo",
+				"most_frequent"
+			],
+			[
+				"to",
+				"total_words"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"tota",
+				"totalDue"
+			],
+			[
+				"new",
+				"new_unpaid"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"stat",
+				"statement_hash"
+			],
+			[
+				"monthly",
+				"monthly_interest"
+			],
+			[
+				"opera",
+				"operator_prompt"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"corr",
+				"correctAnswer"
+			],
+			[
+				"corre",
+				"correctAnswerText"
+			],
+			[
+				"show",
+				"showChoices"
+			],
+			[
+				"que",
+				"questionText"
+			],
+			[
+				"in",
+				"increaseScore"
+			],
+			[
+				"sho",
+				"showHTML"
+			],
+			[
+				"quiz",
+				"quizQuestions"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"deal",
+				"dealer_hits"
+			],
+			[
+				"pl",
+				"player_stays"
+			],
+			[
+				"pla",
+				"player_total"
+			],
+			[
+				"playe",
+				"player_total"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"player",
+				"player_cards"
+			],
+			[
+				"p",
+				"player_cards"
+			],
+			[
+				"ch",
+				"check_winner"
+			],
+			[
+				"win",
+				"win_bet"
+			],
+			[
+				"B",
+				"BLACKJACK_AMOUNT"
+			],
+			[
+				"dea",
+				"dealer_turn"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"hit",
+				"hit_or_stay"
+			],
+			[
+				"top",
+				"top_card"
+			],
+			[
+				"cards",
+				"cards_in_hand"
+			],
+			[
+				"play",
+				"play_again"
+			],
+			[
+				"attr",
+				"attr_accessor"
+			],
+			[
+				"winn",
+				"winning_condition"
+			],
+			[
+				"S",
+				"SupportGroup"
+			],
+			[
+				"Stu",
+				"StudentGroup"
+			],
+			[
+				"Sp",
+				"SportsRecreation"
+			],
+			[
+				"C",
+				"Church"
+			],
+			[
+				"H",
+				"Hotline"
+			],
+			[
+				"Ar",
+				"ArtMusicFilmShowings"
+			],
+			[
+				"Su",
+				"SupportTables"
+			],
+			[
+				"Spor",
+				"SportsTables"
+			],
+			[
+				"Chur",
+				"ChurchesTables"
+			],
+			[
+				"Hotline",
+				"HotlineTables"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"cu",
+				"current_speed"
+			],
+			[
+				"de",
+				"dealer_total"
+			],
+			[
+				"dis",
+				"display_hand"
+			],
+			[
+				"displ",
+				"display_upcard"
+			],
+			[
+				"dealer",
+				"dealer_total"
+			],
+			[
+				"player_",
+				"player_name"
+			],
+			[
+				"log",
+				"logUserInfo"
+			],
+			[
+				"n",
+				"new_deck"
+			],
+			[
+				"check_",
+				"check_blackjack"
+			],
+			[
+				"deale",
+				"dealer_score"
+			],
+			[
+				"empty",
+				"empty_spaces"
+			],
+			[
+				"compt",
+				"computer_move"
+			],
+			[
+				"computer",
+				"computer_choice"
+			],
+			[
+				"my_arr",
+				"my_arr2"
+			],
+			[
+				"numb",
+				"number_input"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/elepalmer/Web Development/Angular-App/index.html",
+			"settings":
+			{
+				"buffer_size": 1378,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/elepalmer/Web Development/Angular-App/main.html",
+			"settings":
+			{
+				"buffer_size": 257,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/elepalmer/Web Development/Angular-App/javascript/github.js",
+			"settings":
+			{
+				"buffer_size": 1306,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/elepalmer/Web Development/Angular-App/javascript/MainController.js",
+			"settings":
+			{
+				"buffer_size": 800,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/elepalmer/Web Development/Angular-App/javascript/RepoController.js",
+			"settings":
+			{
+				"buffer_size": 520,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/elepalmer/Web Development/Angular-App/javascript/UserController.js",
+			"settings":
+			{
+				"buffer_size": 647,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/elepalmer/Web Development/Angular-App/javascript/app.js",
+			"settings":
+			{
+				"buffer_size": 521,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/elepalmer/Web Development/Angular-App/repo.html",
+			"settings":
+			{
+				"buffer_size": 370,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/elepalmer/Web Development/Angular-App/user.html",
+			"settings":
+			{
+				"buffer_size": 731,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 360.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/elepalmer/Web Development/Angular-App/javascript/app.js",
+		"/Users/elepalmer/Web Development/Angular-App/user.html",
+		"/Users/elepalmer/Freelancing/PhilipKearns/PhoebeSnowTribute/index.html",
+		"/Users/elepalmer/Web Development/Coder Foundry/BingSearchContainer.cs",
+		"/Users/elepalmer/Web Development/Coder Foundry/PersonalWebsite/PersonalWebsite/css/js-exercises.css",
+		"/Users/elepalmer/Web Development/Coder Foundry/PersonalWebsite/PersonalWebsite/css/main.css",
+		"/Users/elepalmer/Web Development/Coder Foundry/PersonalWebsite/PersonalWebsite/index.html",
+		"/Users/elepalmer/Web Development/Coder Foundry/PersonalWebsite/PersonalWebsite/js-exercises.html",
+		"/Users/elepalmer/Web Development/Coder Foundry/PersonalWebsite/PersonalWebsite/js/js-exercises.js",
+		"/Users/elepalmer/Web Development/STARTER FILES/Website/index.html",
+		"/Users/elepalmer/Web Development/Coder Foundry/Bootstrap/Exercise1.html",
+		"/Users/elepalmer/Web Development/Coder Foundry/Bootstrap/Exercise2.html",
+		"/Users/elepalmer/Web Development/Coder Foundry/JavascriptExercises/index.html",
+		"/Users/elepalmer/Web Development/Coder Foundry/JavascriptExercises/javascript/ui.js",
+		"/Users/elepalmer/Web Development/Coder Foundry/JavascriptExercises/numbers.html",
+		"/Users/elepalmer/Web Development/Coder Foundry/JavascriptExercises/css/main.css",
+		"/Users/elepalmer/GitHub/OOJavascriptQuiz/constructors.js",
+		"/Users/elepalmer/GitHub/OOJavascriptQuiz/app.js",
+		"/Users/elepalmer/GitHub/OOJavascriptQuiz/quiz-ui.js",
+		"/Users/elepalmer/Web Development/Coder Foundry/JavascriptExercises/javascript/app.js",
+		"/Users/elepalmer/Web Development/STARTER FILES/Code Snippets/Form.html",
+		"/Users/elepalmer/Web Development/Angular-App/javascript/github.js",
+		"/Users/elepalmer/Web Development/Angular-App/javascript/UserController.js",
+		"/Users/elepalmer/QUEN/Website/js/list.js",
+		"/Users/elepalmer/Web Development/Angular-App/main.html",
+		"/Users/elepalmer/Web Development/Angular-App/index.html",
+		"/Users/elepalmer/Web Development/Angular-App/javascript/MainController.js",
+		"/Users/elepalmer/Web Development/Angular-App/javascript/RepoController.js",
+		"/Users/elepalmer/Web Development/Angular-App/repo.html",
+		"/Users/elepalmer/Web Development/Angular-App/javascript/angular-route.min.js",
+		"/Users/elepalmer/Web Development/Angular-App/javascript/routes.js",
+		"/Users/elepalmer/Web Development/Java/Introductions.java",
+		"/Users/elepalmer/Web Development/Algorithms/StdIn.java",
+		"/Users/elepalmer/Web Development/Algorithms/StOut.java",
+		"/Users/elepalmer/Web Development/Java/TreeStory.java",
+		"/Users/elepalmer/Web Development/Java/ArraysExample.java",
+		"/Users/elepalmer/Web Development/Java/BooleanType.java",
+		"/Users/elepalmer/Web Development/Java/Enumerations.java",
+		"/Users/elepalmer/Web Development/Java/HelloWorld.java",
+		"/Users/elepalmer/Web Development/Java/LoopArray.java",
+		"/Users/elepalmer/GitHub/shopping-list/app.js",
+		"/Users/elepalmer/GitHub/shopping-list/index.html",
+		"/Users/elepalmer/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/elepalmer/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/elepalmer/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/elepalmer/GitHub/JavascriptExercises/Invoices/javascript/app.js",
+		"/Users/elepalmer/GitHub/JavascriptExercises/WordAnalytics/index.html",
+		"/Users/elepalmer/Freelancing/PhilipKearns/PhoebeSnowTribute/css/custom.css",
+		"/Users/elepalmer/Freelancing/PhilipKearns/PhoebeSnowTribute/slick/slider.js",
+		"/Users/elepalmer/GitHub/dev-internship/stylesheets/screen.css",
+		"/Users/elepalmer/GitHub/dev-internship/stylesheets/print.css",
+		"/Users/elepalmer/GitHub/LaunchFrontEnd/web_store_catalog/css/main.css",
+		"/Users/elepalmer/GitHub/LaunchFrontEnd/web_store_catalog/index.html",
+		"/Users/elepalmer/GitHub/dev-internship/sass/_social-media.scss",
+		"/Users/elepalmer/GitHub/dev-internship/config.rb",
+		"/Users/elepalmer/GitHub/LaunchFrontEnd/company_site/css/main.css",
+		"/Users/elepalmer/GitHub/LaunchFrontEnd/Blog/blog.css",
+		"/Users/elepalmer/GitHub/dev-internship/sass/screen.scss",
+		"/Users/elepalmer/GitHub/dev-internship/sass/_typography.scss",
+		"/Users/elepalmer/GitHub/dev-internship/sass/_media-queries.scss",
+		"/Users/elepalmer/GitHub/dev-internship/sass/_variables.scss",
+		"/Users/elepalmer/GitHub/dev-internship/sass/print.scss",
+		"/Users/elepalmer/GitHub/dev-internship/sass/ie.scss",
+		"/Users/elepalmer/GitHub/JavascriptExercises/Invoices/index.html",
+		"/Users/elepalmer/GitHub/hot-or-cold/js/app.js",
+		"/Users/elepalmer/Web Development/STARTER FILES/index.html",
+		"/Users/elepalmer/GitHub/LaunchFrontEnd/form exercises/exercise1.html",
+		"/Users/elepalmer/GitHub/LaunchFrontEnd/form exercises/exercise4.html",
+		"/Users/elepalmer/GitHub/LaunchFrontEnd/form exercises/exercise3.html",
+		"/Users/elepalmer/Web Development/STARTER FILES/Skeleton-2.0.4/index.html",
+		"/Users/elepalmer/Web Development/STARTER FILES/css/normalize.css",
+		"/Users/elepalmer/Web Development/STARTER FILES/css/main.css",
+		"/Users/elepalmer/GitHub/OOJavascriptQuiz/index.html",
+		"/Users/elepalmer/GitHub/LaunchFrontEnd/company_site/index.html",
+		"/Users/elepalmer/Web Development/STARTER FILES/css/reset.css",
+		"/Users/elepalmer/GitHub/LaunchBackend/Exercises/oop1.rb",
+		"/Users/elepalmer/GitHub/LaunchBackend/Exercises/medium1.rb",
+		"/Users/elepalmer/GitHub/LaunchBackend/Exercises/medium2.rb",
+		"/Users/elepalmer/GitHub/RubyPractice/hash_Ex1.rb",
+		"/Users/elepalmer/GitHub/RubyPractice/TealeafWorkbook/IntQuiz2Ex1.rb",
+		"/Users/elepalmer/Web Development/RubyOnRails/MyFirstApp/myapp/config/routes.rb",
+		"/Applications/MAMP/htdocs/elepalmer.com/wp-content/themes/spacious/sidebar.php",
+		"/Applications/MAMP/htdocs/elepalmer.com/wp-content/themes/spacious/style.css",
+		"/Applications/MAMP/htdocs/elepalmer.com/wp-content/themes/spacious/inc/functions.php",
+		"/Users/elepalmer/Web Development/WordPress-Theme-Dev---Treehouse/final-theme/treehouse-portfolio/single-portfolio.php",
+		"/Users/elepalmer/Web Development/WordPress-Theme-Dev---Treehouse/final-theme/treehouse-portfolio/content-portfolio.php",
+		"/Users/elepalmer/Web Development/WordPress-Theme-Dev---Treehouse/final-theme/treehouse-portfolio/page-portfolio.php",
+		"/Applications/MAMP/htdocs/elepalmer.com/wp-content/themes/spacious/functions.php",
+		"/Users/elepalmer/GitHub/LaunchBackend/Calculator/calculator.rb",
+		"/Users/elepalmer/Web Development/WordPress-Theme-Dev---Treehouse/final-theme/treehouse-portfolio/functions.php",
+		"/Users/elepalmer/GitHub/LaunchBackend/Calculator/morgage_calculator.rb",
+		"/Users/elepalmer/GitHub/RubyRockPaperScissors/prs.rb",
+		"/Users/elepalmer/GitHub/RubyTicTacToe/tictactoe.rb",
+		"/Applications/MAMP/htdocs/elepalmer.com/wp-content/themes/spacious-child/page-portfolio.php",
+		"/Users/elepalmer/Web Development/test.rb",
+		"/Applications/MAMP/htdocs/elepalmer.com/wp-content/themes/spacious/archive.php",
+		"/Applications/MAMP/htdocs/elepalmer.com/wp-content/themes/spacious/page.php",
+		"/Users/elepalmer/GitHub/LaunchFrontEnd/company_site/team.html",
+		"/Users/elepalmer/GitHub/LaunchFrontEnd/company_site/projects.html",
+		"/Users/elepalmer/GitHub/LaunchFrontEnd/company_site/css/reset.css",
+		"/Users/elepalmer/GitHub/LaunchFrontEnd/company_site/css/normalize.css",
+		"/Users/elepalmer/GitHub/LaunchFrontEnd/company_site/main.css",
+		"/Users/elepalmer/GitHub/LaunchFrontEnd/Blog/blog.html",
+		"/Users/elepalmer/GitHub/OOJavascriptQuiz/main.css",
+		"/Users/elepalmer/GitHub/OOJavascriptQuiz/question.js",
+		"/Users/elepalmer/GitHub/endangered-quiz/app.js",
+		"/Users/elepalmer/GitHub/endangered-quiz/index.html",
+		"/Users/elepalmer/Web Development/JAVASCRIPT/Treehouse_OOP_JS/4_Awesome Quiz/1_Quiz_Start/app.js",
+		"/Users/elepalmer/Web Development/JAVASCRIPT/Treehouse_OOP_JS/4_Awesome Quiz/1_Quiz_Start/index.html",
+		"/Users/elepalmer/Web Development/JAVASCRIPT/Treehouse_OOP_JS/4_Awesome Quiz/1_Quiz_Start/quiz.js",
+		"/Users/elepalmer/Web Development/JAVASCRIPT/Treehouse_OOP_JS/4_Awesome Quiz/1_Quiz_Start/quiz_ui.js",
+		"/Users/elepalmer/Web Development/JAVASCRIPT/Treehouse_OOP_JS/4_Awesome Quiz/1_Quiz_Start/question.js",
+		"/Users/elepalmer/Web Development/JAVASCRIPT/Treehouse_OOP_JS/Playlist/movie.js",
+		"/Users/elepalmer/Web Development/JAVASCRIPT/Treehouse_OOP_JS/Playlist/app.js",
+		"/Users/elepalmer/Web Development/JAVASCRIPT/Treehouse_OOP_JS/Playlist/song.js",
+		"/Users/elepalmer/Web Development/JAVASCRIPT/Treehouse_OOP_JS/Playlist/index.html",
+		"/Users/elepalmer/Web Development/JAVASCRIPT/Treehouse_OOP_JS/Playlist/media.js",
+		"/Users/elepalmer/GitHub/LaunchFrontEnd/company_splash_page/main.css",
+		"/Users/elepalmer/Web Development/RubyOnRails/MyFirstApp/myapp/app/models/user.rb",
+		"/Users/elepalmer/Web Development/RubyOnRails/MyFirstApp/myapp/app/models/post.rb",
+		"/Users/elepalmer/Web Development/RubyOnRails/MyFirstApp/myapp/app/views/users/index.html.erb",
+		"/Users/elepalmer/Web Development/RubyOnRails/MyFirstApp/myapp/app/views/users/new.html.erb",
+		"/Users/elepalmer/Web Development/RubyOnRails/MyFirstApp/myapp/app/controllers/users_controller.rb",
+		"/Users/elepalmer/Downloads/tl-blackjack-webapp/public/application.js",
+		"/Users/elepalmer/Downloads/tl-blackjack-webapp/views/game.erb",
+		"/Users/elepalmer/Downloads/tl-blackjack-webapp/views/layout.erb",
+		"/Users/elepalmer/Downloads/tl-blackjack-webapp/main.rb",
+		"/Users/elepalmer/GitHub/BlackjackWebApp/views/new_player.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lg",
+			"”",
+			"“",
+			"’",
+			"div",
+			".content",
+			"content",
+			"gif",
+			"){\n",
+			"define('ALTERNATE_WP_CRON', true)",
+			"<?",
+			"777",
+			"99",
+			".btn",
+			"background-image",
+			"player_name",
+			"dealer_total",
+			"player_total",
+			"\\r",
+			"\\r\\n",
+			"\\n\\n",
+			"\\n",
+			"\\\\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"xs",
+			"\"",
+			"'",
+			"li",
+			"25",
+			"@player.name",
+			"@dealer.total",
+			"@player.total",
+			"<br>",
+			"\\r",
+			"\\n\\n",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/elepalmer/Web Development/Angular-App/index.html",
+					"settings":
+					{
+						"buffer_size": 1378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/elepalmer/Web Development/Angular-App/main.html",
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/elepalmer/Web Development/Angular-App/javascript/github.js",
+					"settings":
+					{
+						"buffer_size": 1306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/elepalmer/Web Development/Angular-App/javascript/MainController.js",
+					"settings":
+					{
+						"buffer_size": 800,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/elepalmer/Web Development/Angular-App/javascript/RepoController.js",
+					"settings":
+					{
+						"buffer_size": 520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/elepalmer/Web Development/Angular-App/javascript/UserController.js",
+					"settings":
+					{
+						"buffer_size": 647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/elepalmer/Web Development/Angular-App/javascript/app.js",
+					"settings":
+					{
+						"buffer_size": 521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/elepalmer/Web Development/Angular-App/repo.html",
+					"settings":
+					{
+						"buffer_size": 370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/elepalmer/Web Development/Angular-App/user.html",
+					"settings":
+					{
+						"buffer_size": 731,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

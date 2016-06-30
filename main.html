@@ -1,5 +1,17 @@
 <div class="row">
     <div class="col-md-12">
-        
+        <h4>Main.html</h4>
+        <select name="Years" id="yearsDropdown" ng-show="{{showYears}}" ng-model="selectedYear">
+            <option ng-repeat="item in years" value="{{item}}" ng-selected="selectedYear">{{item}}</option>
+        </select>
+        <br>
+        <select name="Makes" ng-show="{{showMakes}}" id="makesDropdown">
+        </select>
+        <br>
+        <select name="Models" ng-show="{{showModels}}" id="modelsDropdown">
+        </select>
+        <br>
+        <select name="Trim" ng-show="{{showTrims}}" id="trimsDropdown">
+        </select>
     </div>
 </div>
