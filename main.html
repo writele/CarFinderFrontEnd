@@ -1,5 +1,10 @@
 <div class="row center">
     <div class="col-md-offset-1 col-md-10">
+        <div class="col-md-offset-1 col-md-10">
+            <p>To find a car and its recall information, please select a year from the dropdown, followed by a make, model, and trim.
+                This application was created by <a href="http://epalmer.azurewebsites.net">Eleanor Palmer</a> using Angular JS and an <a href="http://epalmer-api.azurewebsites.net">API</a> built with .Net.</p>
+        </div>
+
         <div class="col-md-12" ng-show="showYears">
             <select name="Years" id="yearsDropdown" ng-model="selectedYear">
                 <option ng-repeat="item in years" value="{{item}}" ng-selected="{{selectedYear}}">{{item}}</option>
@@ -25,12 +30,11 @@
 
         <br>
         <div class="col-md-12" ng-show="showTrims">
-            <select name="Trims" id="trimsDropdown" ng-model="selectedTrim">
+            <select name="Trims" id="trimsDropdown" ng-model="selectedTrim" class="pull-select-left">
                 <option ng-repeat="item in trims" value="{{item}}" ng-selected="{{selectedTrim}}">{{item}}</option>
             </select>
+            <a ng-href="#car/{{selectedYear}}/{{selectedMake}}/{{selectedModel}}/{{selectedTrim}}" class="btn btn-default btn-go" ng-show="showViewCar">View Car</a>
         </div>
 
-        <br><br>
-            <a ng-href="#car/{{selectedYear}}/{{selectedMake}}/{{selectedModel}}/{{selectedTrim}}" class="btn btn-default" ng-show="showViewCar">View Car</a>
     </div>
 </div>
