@@ -1,6 +1,5 @@
-<div class="row">
-    <div class="col-md-12">
-        <h4>Main.html</h4>
+<div class="row center">
+    <div class="col-md-offset-1 col-md-10">
         <div class="col-md-12" ng-show="showYears">
             <select name="Years" id="yearsDropdown" ng-model="selectedYear">
                 <option ng-repeat="item in years" value="{{item}}" ng-selected="{{selectedYear}}">{{item}}</option>
@@ -32,8 +31,6 @@
         </div>
 
         <br><br>
-        <button class="btn btn-default" ng-show="showViewCar">
-            <a ng-href="#car/{{selectedYear}}/{{selectedMake}}/{{selectedModel}}/{{selectedTrim}}">View Car</a>
-        </button>
+            <a ng-href="#car/{{selectedYear}}/{{selectedMake}}/{{selectedModel}}/{{selectedTrim}}" class="btn btn-default" ng-show="showViewCar">View Car</a>
     </div>
 </div>

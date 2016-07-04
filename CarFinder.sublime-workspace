@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"show",
+				"showViewCar"
+			],
+			[
 				"app",
 				"appendData"
 			],
@@ -250,10 +254,6 @@
 			[
 				"corre",
 				"correctAnswerText"
-			],
-			[
-				"show",
-				"showChoices"
 			],
 			[
 				"que",
@@ -531,7 +531,7 @@
 			"file": "car.js",
 			"settings":
 			{
-				"buffer_size": 394,
+				"buffer_size": 398,
 				"line_ending": "Unix"
 			}
 		},
@@ -539,15 +539,7 @@
 			"file": "main.html",
 			"settings":
 			{
-				"buffer_size": 486,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "mainController.js",
-			"settings":
-			{
-				"buffer_size": 1255,
+				"buffer_size": 1828,
 				"line_ending": "Unix"
 			}
 		},
@@ -560,10 +552,18 @@
 			}
 		},
 		{
+			"file": "mainController.js",
+			"settings":
+			{
+				"buffer_size": 2010,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "carData.js",
 			"settings":
 			{
-				"buffer_size": 1910,
+				"buffer_size": 1715,
 				"line_ending": "Unix"
 			}
 		},
@@ -571,7 +571,7 @@
 			"file": "ViewCar.html",
 			"settings":
 			{
-				"buffer_size": 1294,
+				"buffer_size": 1307,
 				"line_ending": "Unix"
 			}
 		},
@@ -813,7 +813,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -849,15 +849,15 @@
 					"file": "car.js",
 					"settings":
 					{
-						"buffer_size": 394,
+						"buffer_size": 398,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								394,
-								394
+								236,
+								236
 							]
 						],
 						"settings":
@@ -877,15 +877,15 @@
 					"file": "main.html",
 					"settings":
 					{
-						"buffer_size": 486,
+						"buffer_size": 1828,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								133,
-								133
+								1699,
+								1699
 							]
 						],
 						"settings":
@@ -902,34 +902,6 @@
 				},
 				{
 					"buffer": 3,
-					"file": "mainController.js",
-					"settings":
-					{
-						"buffer_size": 1255,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1169,
-								1169
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
 					"file": "carController.js",
 					"settings":
 					{
@@ -940,8 +912,8 @@
 						"selection":
 						[
 							[
-								117,
-								89
+								528,
+								528
 							]
 						],
 						"settings":
@@ -952,6 +924,34 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "mainController.js",
+					"settings":
+					{
+						"buffer_size": 2010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1901,
+								1901
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 194.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -961,15 +961,15 @@
 					"file": "carData.js",
 					"settings":
 					{
-						"buffer_size": 1910,
+						"buffer_size": 1715,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1772,
-								1772
+								168,
+								168
 							]
 						],
 						"settings":
@@ -979,7 +979,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 14.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -989,15 +989,15 @@
 					"file": "ViewCar.html",
 					"settings":
 					{
-						"buffer_size": 1294,
+						"buffer_size": 1307,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1067,
-								1067
+								1192,
+								1192
 							]
 						],
 						"settings":

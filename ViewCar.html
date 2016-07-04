@@ -1,39 +1,46 @@
 <div class="row">
-    <div class="col-md-12">
+    <div class="col-md-offset-1 col-md-10">
         <h2>{{car[0].model_year}} {{car[0].make}} {{car[0].model_name}} {{car[0].model_trim}}</h2>
-        <p>
-            <img src="{{imageURL}}">
-
-        </p>
-        <h3>Recalls</h3>
-            <table class="table table-striped" ng-repeat="recall in recalls.Results">
-                <tbody>
-                    <tr>
-                        <td>Component</td>
-                    </tr>
-                    <tr>
-                        <td>{{recall.Component}}</td>
-                    </tr>
-                    <tr>
-                        <td>Summary</td>
-                    </tr>
-                    <tr>
-                        <td>{{recall.Summary}}</td>
-                    </tr>
-                    <tr>
-                        <td>Consequence</td>
-                    </tr>
-                    <tr>
-                        <td>{{recall.Conequence}}</td>
-                    </tr>
-                    <tr>
-                        <td>Remedy</td>
-                    </tr>
-                    <tr>
-                        <td>{{recall.Remedy}}</td>
-                    </tr>
-                </tbody>               
-            </table>
+        <div class="row">
+            <div class="col-md-offset-2 col-md-8">
+                <img src="{{imageURL}}" class="img-responsive">
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <h3 class="bottom-padding">Recalls</h3>
+            <div class="col-md-offset-2 col-md-8 bottom-padding" ng-repeat="recall in recalls.Results">       
+                <h4>DETAILS</h4>
+                <table class="table table-striped">
+                    <tbody>
+                        <tr>
+                            <td>Component</td>
+                        </tr>
+                        <tr>
+                            <td>{{recall.Component}}</td>
+                        </tr>
+                        <tr>
+                            <td>Summary</td>
+                        </tr>
+                        <tr>
+                            <td>{{recall.Summary}}</td>
+                        </tr>
+                        <tr>
+                            <td>Consequence</td>
+                        </tr>
+                        <tr>
+                            <td>{{recall.Conequence}}</td>
+                        </tr>
+                        <tr>
+                            <td>Remedy</td>
+                        </tr>
+                        <tr>
+                            <td>{{recall.Remedy}}</td>
+                        </tr>
+                    </tbody>               
+                </table>
+            </div>
+        </div>
         <p>
             <a href="/#/" class="btn btn-default">Find Another Car</a>
         </p>

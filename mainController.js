@@ -28,8 +28,7 @@ var mainController = function ($scope, $http, carData, $routeParams) {
       $scope.getYears = function () {
         carData.getYears().then(function (data) {
             $scope.years = data;
-            $scope.showYears = true;      
-            console.log($scope.selectedYear);   
+            $scope.showYears = true;        
         });
       };
 
